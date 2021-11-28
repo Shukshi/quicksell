@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/quicksell/static/css/main.ae9f4530.chunk.css",
+    "main.js": "/quicksell/static/js/main.6f59325b.chunk.js",
+    "main.js.map": "/quicksell/static/js/main.6f59325b.chunk.js.map",
+    "runtime-main.js": "/quicksell/static/js/runtime-main.27d0fda9.js",
+    "runtime-main.js.map": "/quicksell/static/js/runtime-main.27d0fda9.js.map",
+    "static/js/2.2de41304.chunk.js": "/quicksell/static/js/2.2de41304.chunk.js",
+    "static/js/2.2de41304.chunk.js.map": "/quicksell/static/js/2.2de41304.chunk.js.map",
+    "static/js/3.5f4877f2.chunk.js": "/quicksell/static/js/3.5f4877f2.chunk.js",
+    "static/js/3.5f4877f2.chunk.js.map": "/quicksell/static/js/3.5f4877f2.chunk.js.map",
+    "index.html": "/quicksell/index.html",
+    "static/css/main.ae9f4530.chunk.css.map": "/quicksell/static/css/main.ae9f4530.chunk.css.map",
+    "static/js/2.2de41304.chunk.js.LICENSE.txt": "/quicksell/static/js/2.2de41304.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/quicksell/static/media/AvenirLTStd-Roman.0bfb049d.otf",
+    "static/media/loader.2d23f9fd.svg": "/quicksell/static/media/loader.2d23f9fd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27d0fda9.js",
+    "static/js/2.2de41304.chunk.js",
+    "static/css/main.ae9f4530.chunk.css",
+    "static/js/main.6f59325b.chunk.js"
+  ]
+}
